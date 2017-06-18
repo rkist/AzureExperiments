@@ -1,9 +1,0 @@
-Func
-Tk
-se
-Toplevel
-SearchDialogBaseTest
-sdb
-Frame
-requires
-unittest

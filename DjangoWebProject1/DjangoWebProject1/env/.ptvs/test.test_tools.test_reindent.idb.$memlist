@@ -1,6 +1,0 @@
-ReindentTests
-scriptsdir
-unittest
-assert_python_ok
-skip_if_missing
-os
